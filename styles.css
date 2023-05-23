@@ -1,8 +1,13 @@
+
+
 .box {
 	margin:20px;
 	border:15px solid blue;
-	width:300px
-	padding:50px lightblue;
+
+	padding:12px 16px 12px 16px;
 	background-color:lightblue;
+}
+.p{
+	width:300px
 	
 }
